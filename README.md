@@ -13,16 +13,16 @@ Flower Colors
     </tr>
 
 <tbody>
-        <td>Hex Value</td>
-        <td>Hex Value</td>
-        <td>Hex Value</td>
-        <td>#008000</td>
+        <td>#0000ff</td>
+        <td>#ff0000</td>
+        <td>#ffff00</td>
+        <td>#006800</td>
     </tr>
 <tbody>
-        <td>Rgb Value</td>
-        <td>Rgb Value</td>
-        <td>Rgb Value</td>
-        <td>rgb(0, 128, 0)</td>
+        <td>>0,0,255</td>
+        <td>255,0,0</td>
+        <td>255,255,0</td>
+        <td>0,255,0</td>
     </tr>
 <tbody>
         <td>Hls Value</td>

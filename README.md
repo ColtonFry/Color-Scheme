@@ -1,35 +1,27 @@
-<style>
-    table, tr, td {
-        border: 1px solid black;
-    }
 </style>
 <table>
  <caption>Flower Colors</caption>
     <thead>
 
  <tr>
-            <td>Size</td>
-            <td>Good Year</td>
+             <td>Good Year</td>
             <td>Cooper</td>
             <td>Yokahama</td>
             <td>Uni-Royal</td>
         </tr>
 </thread>
 <tbody>
-        <td>195/75R16</td>
         <td>$196.72</td>
         <td>$192.02</td>
         <td>$189.90</td>
          <td>194.64</td>
     </tr>
 <tbody>
-        <td>185/75R15</td>
         <td>$162.57</td>
         <td>$158.33</td>
         <td>$172.63</td>
          <td>$162.22</td>
     </tr><tbody>
-        <td>175/65R20</td>
         <td>$202.58</td>
         <td>$222.71</td>
         <td>$210.99</td>

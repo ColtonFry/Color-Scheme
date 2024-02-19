@@ -11,22 +11,22 @@
         </tr>
 </thread>
 <tbody>
-        <td>$196.72</td>
-        <td>$192.02</td>
-        <td>$189.90</td>
- <td>$210.99</td>
+        <td>Hex Value</td>
+        <td>Hex Value</td>
+        <td>Hex Value</td>
+        <td>Hex Value</td>
     </tr>
 <tbody>
-        <td>$162.57</td>
-        <td>$158.33</td>
-        <td>$172.63</td>
- <td>$210.99</td>
+        <td>Rgb Value</td>
+        <td>Rgb Value</td>
+        <td>Rgb Value</td>
+        <td>Rgb Value</td>
     </tr>
 <tbody>
-        <td>$202.58</td>
-        <td>$222.71</td>
-        <td>$210.99</td>
-     <td>$210.99</td>
+        <td>Hls Value</td>
+        <td>Hls Value</td>
+        <td>Hls Value</td>
+        <td>Hls Value</td>
     </tr>
 
 </tbody> 

@@ -4,10 +4,10 @@
     <thead>
 
  <tr>
-             <td>Good Year</td>
-            <td>Cooper</td>
-            <td>Yokahama</td>
-            <td>Uni-Royal</td>
+             <td>Blue</td>
+            <td>Red</td>
+            <td>Yellow</td>
+            <td>Green</td>
         </tr>
 </thread>
 <tbody>

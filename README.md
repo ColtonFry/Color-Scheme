@@ -1,4 +1,7 @@
-</style>
+<style>
+    table, tr, td {
+        border: 1px solid black;
+    }
 <table>
  <caption>Flower Colors</caption>
     <thead>

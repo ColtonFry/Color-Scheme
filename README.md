@@ -19,16 +19,16 @@ Flower Colors
         <td>#006800</td>
     </tr>
 <tbody>
-        <td>>0,0,255</td>
-        <td>255,0,0</td>
-        <td>255,255,0</td>
-        <td>0,255,0</td>
+        <td>(0,0,255)</td>
+        <td>(255,0,0)</td>
+        <td>(255,255,0)</td>
+        <td>(0,255,0)</td>
     </tr>
 <tbody>
-        <td>Hls Value</td>
-        <td>Hls Value</td>
-        <td>Hls Value</td>
-        <td>Hls Value</td>
+        <td>(221,81%,50%)</td>
+        <td>(0,100%,50%)</td>
+        <td>(65,80%,50%)</td>
+        <td>(129,48%,50%)</td>
     </tr>
     </table>
 </body> 

@@ -6,10 +6,10 @@ Flower Colors
  
 
  <tr>
-             <td>Blue</td>
-             <td>Red</td>
-            <td>Yellow</td>
-           <td>Green</td>
+             <td><p style="background-color:rgb(0,0,255);">Blue</p></td>
+             <td><p style="background-color:rgb(255,0,0);">Red</p></td>
+            <td><p style="background-color:rgb(255,255,0);">Yellow</p></td>
+           <td><p style="background-color:rgb(0,255,0);">Green</p></td>
     </tr>
 
 <tbody>

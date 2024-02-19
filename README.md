@@ -1,8 +1,6 @@
-
 <table>
- <caption>Flower Colors</caption>
-    <thead>
-
+ <p style="text-align:center">Flower Colors</p>
+  
  <tr>
              <td>Blue</td>
             <td>Red</td>

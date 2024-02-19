@@ -8,11 +8,11 @@
  
 
  <tr>
-            
-<td><p style="background-color:rgb(0,0,255);">Blue</p></td>
-<td><p style="background-color:rgb(255,0,0);">Red</p></td>
-            <td><p style="background-color:rgb(255,255,0);">Yellow</p></td>
-           <td><p style="background-color:rgb(0,255,0);">Green</p></td>
+          
+<td><p style="background-color:rgb(0,0,255);"><h2>Blue<h2></td>
+<td><p style="background-color:rgb(255,0,0);"><h2>Red<h2></td>
+            <td><p style="background-color:rgb(255,255,0);"><h2>Yellow<h2></td>
+           <td><p style="background-color:rgb(0,255,0);"><h2>Green<h2></td>
     </tr>
 
 <tbody>

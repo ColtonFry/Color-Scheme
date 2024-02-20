@@ -1,5 +1,5 @@
 <center>
- <p>Flower Colors</p>
+ <p style="font-family:'lucida console'">Flower Colors</p>
 </center>
 
 <body>
